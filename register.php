@@ -7,5 +7,6 @@
 </head>
 <body>
   <h1>Ini adalah form Register</h1>
+  <p>Keterangan untuk form register</p>
 </body>
 </html>
